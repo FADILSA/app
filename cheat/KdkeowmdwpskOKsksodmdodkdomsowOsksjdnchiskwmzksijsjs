@@ -1,29 +1,10 @@
-HOME = 1
-    YT = gg.alert('𝕃𝕠𝕘𝕚𝕟 𝕊𝕦𝕔𝕔𝕖𝕤𝕤𝕗𝕦𝕝𝕝𝕪\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 !', '【ᮘᵉˣᵗ】')
-    if YT == 1 then
-    end
-gg.toast(" █▒▒▒▒▒▒▒▒▒")
-gg.sleep(1150)
-gg.toast(" ██▒▒▒▒▒▒▒▒")
-gg.sleep(2500)
-gg.toast(" ███▒▒▒▒▒▒▒")
-gg.sleep(50)
-gg.toast(" ████▒▒▒▒▒▒")
-gg.sleep(50)
-gg.toast(" █████▒▒▒▒▒")
-gg.sleep(2000)
-gg.toast(" ██████▒▒▒▒")
-gg.sleep(50)
-gg.toast(" ███████▒▒▒")
-gg.sleep(1500)
-gg.toast(" ████████▒▒")
-gg.sleep(50)
-gg.toast(" █████████▒")
-gg.sleep(3000)
-gg.toast(" ██████████")
-gg.sleep(2000)
-gg.toast('Succes Loading')
-gg.sleep(2000)
+       KC = '𝕃𝕠𝕘𝕚𝕟 𝕊𝕦𝕔𝕔𝕖𝕤𝕤𝕗𝕦𝕝𝕝𝕪\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 !';
+         for i = 1, #KC do
+         gg.toast(KC:sub(1, i).."🔓");
+         gg.sleep(100);
+         end
+gg.alert('𝕃𝕠𝕘𝕚𝕟 𝕊𝕦𝕔𝕔𝕖𝕤𝕤𝕗𝕦𝕝𝕝𝕪\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 !', '')
+gg.setVisible(true)
 function HOME()
 Menu = gg.choice({
 '🅜🅔🅜🅞🅡🅨 🅐🅝🅣🅘 🅑🅐🅝🅝🅔🅓',
@@ -69,7 +50,7 @@ function otherx()
     "Esp【𝐆𝐚𝐦𝐞】",
     "FlyCar【𝐆𝐚𝐦𝐞】",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "📁Menu")
+  }, nil, (os.date("📁Other Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳")))
   if SSE == nil then
   else
     if SSE[1] == true then
@@ -235,7 +216,7 @@ function vegeme()
     " No Grass v2【𝐆𝐚𝐦𝐞】",
     " No Grass/Trees【𝐆𝐚𝐦𝐞】",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "📁 Menu")
+  }, nil, (os.date("📁NoGrass/Trees Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if SSR == nil then
   else
     if SSR[1] == true then
@@ -313,11 +294,11 @@ function NoGrassTrees()
 end
 
 function espalert()
-gg.alert('Active ESP in Training\n          ⚠️INFO⚠️\n1.Before Active ESP make sure you have any Gun in your Hand\n2.If ESP not active Make sure you Enabled Aim Assist [in Setting]\n3.ESP only Show if you have GUN in your hand\nNOTE: ESP only Showing if you using GUN')
+gg.alert('Active ESP in Training\n          ⚠️INFO⚠️\n1.Before Active ESP make sure you have any Gun in your Hand\n2.If ESP not active Make sure you Enabled Aim Assist [in Setting]\n3.ESP only Show if you have GUN in your hand\nNOTE: ESP only Showing if you using GUN',"")
 Esp()
 end
 function whalert()
-gg.alert('Active WallHack in Training')
+gg.alert('⚠️Active WallHack in Training⚠️',"")
 whmenux()
 end
 
@@ -345,7 +326,7 @@ function xu()
     "  SLR",
     "  QBU",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "Fix No Damage Menu ")
+  }, nil, (os.date("📁Fix No Damage Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if KTO == nil then
   else
     if KTO[1] == true then
@@ -767,7 +748,7 @@ end
   flash = on
   ms = on
     function Flashm()
-    gh = gg.prompt({
+    gh = gg.multiChoice({
       'Fix No Damage Flash Run【𝐆𝐚𝐦𝐞】',
       'Flash Run【𝐆𝐚𝐦𝐞】' .. flash,
     "Micro Speed【𝐆𝐚𝐦𝐞】"..ms,
@@ -777,17 +758,7 @@ end
     "Speed Jeep【𝐆𝐚𝐦𝐞】",
     " Speed Car【𝐆𝐚𝐦𝐞】",
       '【𝕭𝖆𝖈𝖐】'
-    }, nil, {
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox'
-    })
+    }, nil, (os.date("📁Speed Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
     if gh == nil then
     else
       if gh[1] == true then
@@ -1100,17 +1071,34 @@ function ClearLog()
  os.remove('/data/data/com.rekoo.pubgm/code_cache')
 end-- 𝖋𝖚𝖓𝖈𝖙𝖎𝖔𝖓
 function bypass1()
-    YT = gg.alert('⚠️Make sure you in Lobby⚠️', '﴾⏩Lobby﴿', '﴾【𝕭𝖆𝖈𝖐】﴿', '﴾❎Game Closed?﴿')
+    YT = gg.alert('⚠️Make sure you in Lobby⚠️\n⚠️Active 10mins Ban fixed every new match in Game⚠️', '﴾⏩Lobby﴿', '﴾🚫10Mins﴿', '﴾【𝕭𝖆𝖈𝖐】﴿')
     if YT == 1 then
     bystart()
     end
     if YT == 2 then
-    HOME()
+    bys10m()
     end
     if YT == 3 then
-gg.alert('Erase your Gameguardian data and restart it')
+    HOME()
     end
     end
+    
+function bys10m()
+ gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("16384;4448", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("4448", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(99900000)
+gg.editAll("2225", gg.TYPE_DWORD)
+gg.getResultsCount()
+gg.getResults(99900000)
+gg.editAll("1337", gg.TYPE_DWORD)
+gg.getResults(99900000)
+gg.getResults(99900000)
+gg.addListItems({[1] = {address = 2867203428,flags = 4,freeze = true,value = 1337}})
+gg.clearResults()
+gg.toast("Actived")   
+end
 function bystart()
 gg[(function(A0_148)
   A0_148 = A0_148:gsub(" ", "")
@@ -1435,7 +1423,7 @@ weapzmn = gg.multiChoice({
     "📁Zoom Hack Menu",
     "📁Scope Hack Menu",
 ' 【𝕭𝖆𝖈𝖐】'
-}, nil, (os.date('亗Weapons Menu亗\n \n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳')))
+}, nil, (os.date('📁Weapons Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳')))
   if weapzmn == nil then
   else
     if weapzmn[1] == true then
@@ -1486,7 +1474,7 @@ function ZoomMenu()
     " Zoom 8X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
     " Zoom 15X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "📁 Zoom Hack Menu")
+  }, nil, (os.date("📁 Zoom Hack Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if SSU == nil then
   else
     if SSU[1] == true then
@@ -1721,7 +1709,7 @@ function snapzmenu()
     "️ [675 SnapDragon]",
     "️ [660 SnapDragon]",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, (os.date("📁WallHack SnapDragon Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if W == 1 then
     skycolormenupro()
   end
@@ -2489,7 +2477,7 @@ function whmenux()
     "WallHack Kirin",
     "WallHack Snapdragon",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, (os.date("📁WallHack Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if WALLHACK == nil then
   else
     if WALLHACK == 1 then
@@ -2540,7 +2528,7 @@ function WHMTK()
     " C P60 Yellow",
     " C P60 Blue",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐 ")
+  }, nil, (os.date("📁WallHack Menu Mediatek\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if MN1 == nil then
   else
     if MN1[1] == true then
@@ -2633,7 +2621,7 @@ function WHP60()
     " WH P60 OTOMATIS",
     " WH P60 MANUAL",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, "📁Menu")
   if MP60 == nil then
   else
     if MP60[1] == true then
@@ -2675,7 +2663,7 @@ function WHP35()
     " WH P35 OTOMATIS",
     " WH P35 MANUAL",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, "💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, "📁Menu")
   if MP35 == nil then
   else
     if MP35[1] == true then
@@ -2720,7 +2708,7 @@ function WHP70()
     " WH P70 OTOMATIS",
     " WH P70 MANUAL",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, "📁Menu")
   if MP70 == nil then
   else
     if MP70[1] == true then
@@ -2761,7 +2749,7 @@ function WHP22()
     " WH P22 OTOMATIS",
     " WH P22 MANUAL",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, "📁Menu")
   if MP22 == nil then
   else
     if MP22[1] == true then
@@ -3096,7 +3084,7 @@ function WHEXY()
     " WH Exynos 9810",
     " Colour Exynos",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, (os.date("📁WallHack Menu Exynos\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if MN2 == nil then
   else
     if MN2[1] == true then
@@ -3368,7 +3356,7 @@ function CEXY()
     " C Yellow Exynos 7870",
     " C Red Exynos 8890",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, "📁Menu")
   if Cexynos1 == nil then
   else
     if Cexynos1[1] == true then
@@ -3514,7 +3502,7 @@ function WHKIRIN()
     " WH Kirin 970",
     " Colour Kirin",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, (os.date("📁WallHack Kirin Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if MN3 == nil then
   else
     if MN3[1] == true then
@@ -3670,7 +3658,7 @@ function CKIRIN()
     " C Kirin 710 Green",
     " C Kirin 710 Yellow",
     "【𝕭𝖆𝖈𝖐】"
-  }, nil, " 💎FadHax💎\n🌐www.menuhack.blogspot.com🌐")
+  }, nil, (os.date("📁WallHack Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
   if Ckirin1 == nil then
   else
     if Ckirin1[1] == true then
@@ -3791,7 +3779,7 @@ end
   ssf = on
   ssl = on
     function ScopeMenu()
-    gh = gg.prompt({
+    gh = gg.multiChoice({
     " Sit Scope【𝐆𝐚𝐦𝐞】" ..sscope,
     " Sit Scope Right【𝐆𝐚𝐦𝐞】"..scr,
     " Sit Scope Left【𝐆𝐚𝐦𝐞】"..scl,
@@ -3799,15 +3787,7 @@ end
     " Stand Scope Front【𝐆𝐚𝐦𝐞】"..ssf,
     " Stand Scope Left【𝐆𝐚𝐦𝐞】"..ssl,
       '【𝕭𝖆𝖈𝖐】'
-    }, nil, {
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox',
-      'checkbox'
-    })
+    }, nil, (os.date("📁Scope Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
     if gh == nil then
     else
       if gh[1] == true then
@@ -4045,12 +4025,29 @@ function kir9()
 end
 
 function exit()
-gg.setVisible(false)
-gg.toast('FadHaxor')
-os.exit()
-end-- 𝖋𝖚𝖓𝖈𝖙𝖎𝖔n
-
-
+alert = gg.alert([[⚠️Exit Script ?]],"【Sure】","【No】")
+                if alert == 1 then
+                 print([[
+👑𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ
+By FadzHaxor
+────────────────────────]].."\n".."Exit Detail : "..os.date())
+          gg.setVisible(true)
+          gg.alert("⚠️Script Closed⚠️", "")
+          gg.toast(os.date("Closed in : %Y/%m/%d  : %H:%M:%S"))
+          gg.sleep(1000)
+          os.exit()
+        else
+       HOME()
+        end
+         end    
+          
+           while true do
+           if gg.isVisible() then
+            gg.setVisible(false)
+             HOME()
+             else
+             end
+            end
 while true do
   if gg.isVisible(true) then
     FadHaxor = 1
