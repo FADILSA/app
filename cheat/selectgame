@@ -97,7 +97,7 @@ Logout Detail
 ────────────────────────]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
           gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
           gg.alert("Logout..", "")
-          gg.toast(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Logout in : %Y/%m/%d  : %H:%M:%S"))
+          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Logout in : %Y/%m/%d  : %H:%M:%S"))
           gg.sleep(1000)
           os.exit()
         end
