@@ -1,1 +1,122 @@
-.
+gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
+
+FADZooooooooooooooooooooooooooooooooooooooooooo HOME()
+Menu = gg.choice({
+"📂𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎",
+"📂𝙼𝚘𝚋𝚒𝚕𝚎 𝙻𝚎𝚐𝚎𝚗𝚍",
+"📂𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎[ᴀʟʟᴠᴇʀꜱɪᴏɴ]",
+"📂𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎",
+"Logout"
+}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️ꜱᴇʟᴇᴄᴛ ɢᴀᴍᴇ \n〖 🔵Ready 〗〖 🔴Not Ready 〗\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
+if Menu == nil then
+else
+if Menu == 1 then
+pubgm()
+end
+if Menu == 2 then
+ml()
+end
+if Menu == 3 then
+codm()
+end
+if Menu == 4 then
+ff()
+end
+if Menu == 5 then
+out()
+end
+end
+FadHaxor = -1
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo pubgm()
+algert = gg.alert("Status:\n𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎 : Ready🔵", "Run", "Back")
+if algert == 1 then
+pm()
+end
+if algert == 2 then
+HOME()
+end
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo pm()
+T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/pubgmxleek').content)
+pcall(T)
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo ml()
+algert = gg.alert("Status:\n𝙼𝚘𝚋𝚒𝚕𝚎 𝙻𝚎𝚐𝚎𝚗𝚍 : Ready🔵", "Run", "Back")
+if algert == 1 then
+m()
+end
+if algert == 2 then
+HOME()
+end
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo m()
+T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/mlbbokokffd').content)
+pcall(T)
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo codm()
+algert = gg.alert("Status:\n𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎 : Not Ready🔴", "Run", "Back")
+if algert == 1 then
+cod()
+end
+if algert == 2 then
+HOME()
+end
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo cod()
+T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/codmkpjdfx').content)
+pcall(T)
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo ff()
+algert = gg.alert("Status:\n𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎 : Not Ready🔴", "Run", "Back")
+if algert == 1 then
+f()
+end
+if algert == 2 then
+HOME()
+end
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo f()
+T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/freefireholvxin').content)
+pcall(T)
+end
+
+
+
+FADZooooooooooooooooooooooooooooooooooooooooooo out()
+                 print([[
+Logout Detail
+────────────────────────]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
+          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
+          gg.alert("Logout..", "")
+          gg.toast(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Logout in : %Y/%m/%d  : %H:%M:%S"))
+          gg.sleep(1000)
+          os.exit()
+        end
+
+
+
+           while true do
+           if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
+            gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
+             HOME()
+             else
+             end
+            end
+while true do
+  if gg.FADZooooooooooooooooooooooooooooooooooooooooo(true) then
+    FadHaxor = 1
+    gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
+  end
+  if FadHaxor == 1 then
+    HOME()
+  end
+end
