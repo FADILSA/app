@@ -1,0 +1,84 @@
+  print("────────────────────────\n⚠️If the script error when loading hack please Report to: \n Contact:\n────────────────────────")
+gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
+       KC = 'Loading.....';
+         for i = 1, #KC do
+         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
+         gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
+         end
+       KC = 'Loading....';
+         for i = 1, #KC do
+         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
+         gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
+         end
+       KC = 'Loading...';
+         for i = 1, #KC do
+         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
+         gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
+         end
+       KC = 'Loading....';
+         for i = 1, #KC do
+         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
+         gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
+         end
+       KC = 'Loading.....';
+         for i = 1, #KC do
+         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
+         gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
+         end
+gg.alert("𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\n👑𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃")
+gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
+FADZooooooooooooooooooooooooooooooooooooooooooo HOME()
+Menu = gg.FADZoooooooooooooooooooooooooooooooooooooooooo({
+'⚠️Script Not Finished',
+'𝙴𝚡𝚒𝚝 𝚂𝚌𝚛𝚒𝚙𝚝'
+}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
+if Menu == nil then
+else
+if Menu == 1 then
+alertf()
+end
+if Menu == 2 then
+exit()
+end-- 𝖎𝖋
+FadHaxor = -1
+end
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo alertf()
+algert = gg.alert("The script hasn't finished yet, it will be added as soon as possible.", "Back")
+if algert == 1 then
+HOME()
+end
+end
+
+FADZooooooooooooooooooooooooooooooooooooooooooo exit()
+alert = gg.alert([[⚠️Exit Script ?]],"【Sure】","【No】")
+                if alert == 1 then
+                 print([[
+👑𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ
+By FadzHaxor
+────────────────────────]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
+          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
+          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Closed in : %Y/%m/%d  : %H:%M:%S"))
+          os.exit()
+        else
+       HOME()
+        end
+         end    
+         
+           while true do
+           if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
+            gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
+             HOME()
+             else
+             end
+            end
+while true do
+  if gg.FADZooooooooooooooooooooooooooooooooooooooooo(true) then
+    FadHaxor = 1
+    gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
+  end
+  if FadHaxor == 1 then
+    HOME()
+  end
+end
