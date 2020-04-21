@@ -30,7 +30,7 @@ gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
 FADZooooooooooooooooooooooooooooooooooooooooooo HOME()
 Menu = gg.FADZoooooooooooooooooooooooooooooooooooooooooo({
 '⚠️Script Not Finished',
-'𝙴𝚡𝚒𝚝 𝚂𝚌𝚛𝚒𝚙𝚝'
+'🔙Select Script'
 }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎ᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
 if Menu == nil then
 else
@@ -52,19 +52,13 @@ end
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exit()
-alert = gg.alert([[⚠️Exit Script ?]],"【Sure】","【No】")
-                if alert == 1 then
+T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/selectgame').content)
+pcall(T)
                  print([[
 👑𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎ᵛᵛᶦᵖ
 By FadzHaxor
 ────────────────────────]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
-          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
-          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Closed in : %Y/%m/%d  : %H:%M:%S"))
-          os.exit()
-        else
-       HOME()
-        end
-         end    
+      end    
          
            while true do
            if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
