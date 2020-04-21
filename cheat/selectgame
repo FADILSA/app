@@ -91,7 +91,7 @@ end
 
 
 FADZooooooooooooooooooooooooooooooooooooooooooo out()
-T = load(gg.makeRequest('https://leonadsense8.000webhostapp.com/txihg/XkoLOADERdekwoKOJahauizodoIYTfCGxhieeknxXndow.lua').content)
+T = load(gg.makeRequest('https://leonadsense8.000webhostapp.com/exit').content)
 pcall(T)
 end
 
