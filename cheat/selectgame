@@ -45,11 +45,11 @@ pcall(T)
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo ml()
-algert = gg.alert("Status:\n𝙼𝚘𝚋𝚒𝚕𝚎 𝙻𝚎𝚐𝚎𝚗𝚍 : Ready🔵", "Run", "Back")
-if algert == 1 then
+xalgert = gg.alert("Status:\n𝙼𝚘𝚋𝚒𝚕𝚎 𝙻𝚎𝚐𝚎𝚗𝚍 : Ready🔵", "Run", "Back")
+if xalgert == 1 then
 m()
 end
-if algert == 2 then
+if xalgert == 2 then
 HOME()
 end
 end
@@ -60,11 +60,11 @@ pcall(T)
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo codm()
-algert = gg.alert("Status:\n𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎 : Not Ready🔴", "Run", "Back")
-if algert == 1 then
+axlgert = gg.alert("Status:\n𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎 : Not Ready🔴", "Run", "Back")
+if axlgert == 1 then
 cod()
 end
-if algert == 2 then
+if axlgert == 2 then
 HOME()
 end
 end
@@ -75,11 +75,11 @@ pcall(T)
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo ff()
-algert = gg.alert("Status:\n𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎 : Not Ready🔴", "Run", "Back")
-if algert == 1 then
+algerxt = gg.alert("Status:\n𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎 : Not Ready🔴", "Run", "Back")
+if algerxt == 1 then
 f()
 end
-if algert == 2 then
+if algerxt == 2 then
 HOME()
 end
 end
