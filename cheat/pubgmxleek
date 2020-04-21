@@ -1,4 +1,3 @@
-  print("◆ ━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━ ◆\n⚠️If the script error please Report to: \n Contact:\n◆ ━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━ ◆")
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
        KC = 'Loading.....';
          for i = 1, #KC do
@@ -4047,7 +4046,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo kir9()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exit()
-alert = gg.alert([[⚠️Exit Script ?]],"【Sure】","【No】")
+alert = gg.alert([[⚠️Exit Script ?
+You have to click again to Exit.]],"【Sure】","【No】")
                 if alert == 1 then
                  print([[◆ ━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━ ◆
                                ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™
