@@ -98,7 +98,7 @@ Logout Detail
           gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
           gg.alert("Logout..", "")
           gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Logout in : %Y/%m/%d  : %H:%M:%S"))
-          gg.sleep(1000)
+          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(1000)
           os.exit()
         end
 
