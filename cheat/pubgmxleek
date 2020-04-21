@@ -4048,13 +4048,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo kir9()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exit()
-T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/selectgame').content)
-pcall(T)
                  print([[
 👑𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ
 By FadzHaxor
 ────────────────────────]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
-      end    
+os.exit()
+    end    
           
            while true do
            if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
