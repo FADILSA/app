@@ -93,6 +93,7 @@ end
 FADZooooooooooooooooooooooooooooooooooooooooooo out()
 T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/selectgame').content)
 pcall(T)
+end
 
 while true do
   if gg.FADZooooooooooooooooooooooooooooooooooooooooo(true) then
