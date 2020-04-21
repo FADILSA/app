@@ -55,7 +55,7 @@ end
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo m()
-T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/mlbbokokffd').content)
+T = load(gg.makeRequest('https://leonadsense8.000webhostapp.com/ixisnsjdjsoxmxkdodkmdnxjdjdndjncndjdje/MobileLegend000.lua').content)
 pcall(T)
 end
 
