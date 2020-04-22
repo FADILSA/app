@@ -26,7 +26,7 @@ gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
          end
 gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
-FADZooooooooooooooooooooooooooooooooooooooooooo HOME()
+FADZooooooooooooooooooooooooooooooooooooooooooo pubghome()
 Menu = gg.FADZoooooooooooooooooooooooooooooooooooooooooo({
 '🅜🅔🅜🅞🅡🅨 🅐🅝🅣🅘 🅑🅐🅝🅝🅔🅓',
 '🆆🅴🅰🅿🅾🅽🆂 🅷🅰🅲🅺',
@@ -57,9 +57,9 @@ if Menu == 6 then
 otherx()
 end-- 𝖎𝖋
 if Menu == 7 then
-exit()
+pubgexit()
 end
-end-- 𝖊𝖑𝖘𝖊
+end
 FadHaxor = -1
 end-- 𝖋𝖚𝖓𝖈𝖙𝖎𝖔𝖓
 
@@ -90,7 +90,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo otherx()
       FlyCar()
     end
     if SSE[6] == true then
-      HOME()
+      pubghome()
     end
   end
 end
@@ -256,7 +256,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo vegeme()
       NoGrassTrees()
     end
     if SSR[6] == true then
-      HOME()
+      pubghome()
     end
   end
 end
@@ -819,7 +819,7 @@ SpeedJeep()
 SpeedCar()
       end-- 
       if gh[9] == true then
-HOME()
+pubghome()
       end 
     end 
     FadHaxor  = -1
@@ -1100,7 +1100,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo bypass1()
     bys10m()
     end
     if YT == 3 then
-    HOME()
+    pubghome()
     end
     end
     
@@ -1481,7 +1481,7 @@ weapzmn = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
       ScopeMenu()
     end
     if weapzmn[12] == true then
-      HOME()
+      pubghome()
     end
   end
   FadHaxor = -1
@@ -2117,6 +2117,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP4MENU()
   end
 end
 
+
 FADZooooooooooooooooooooooooooooooooooooooooooo snap4wallhack()
   gg.clearResults()
   gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
@@ -2514,7 +2515,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo whmenux()
       snapzmenu()
        end
     if WALLHACK == 5 then
-      HOME()
+      pubghome()
     end
   end
   FadHaxor = -1
@@ -3804,7 +3805,7 @@ end
     " Sit Scope【𝐆𝐚𝐦𝐞】" ..sscope,
     " Sit Scope Right【𝐆𝐚𝐦𝐞】"..scr,
     " Sit Scope Left【𝐆𝐚𝐦𝐞】"..scl,
-    " Sit Scope Front【𝐆𝐚𝐦𝐞】"..scf,
+    " Sit Scope Front【𝐆𝐚??𝐞】"..scf,
     " Stand Scope Front【𝐆𝐚𝐦𝐞】"..ssf,
     " Stand Scope Left【𝐆𝐚𝐦𝐞】"..ssl,
       '【𝕭𝖆𝖈𝖐】'
@@ -4045,7 +4046,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo kir9()
   gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("C Kirin 710 Yellow Active ")
 end
 
-FADZooooooooooooooooooooooooooooooooooooooooooo exit()
+FADZooooooooooooooooooooooooooooooooooooooooooo pubgexit()
 alert = gg.alert([[⚠️Exit Script ?
 You have to click again to Exit.]],"【Sure】","【No】")
                 if alert == 1 then
@@ -4057,14 +4058,14 @@ Game: 👑𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ]].."\n".."Exit D
           gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Closed in : %Y/%m/%d  : %H:%M:%S"))
           os.exit()
         else
-       HOME()
+       pubghome()
         end
          end    
           
            while true do
            if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
             gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
-             HOME()
+             pubghome()
              else
              end
             end
@@ -4074,6 +4075,6 @@ while true do
     gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
   end
   if FadHaxor == 1 then
-    HOME()
+    pubghome()
   end
 end
