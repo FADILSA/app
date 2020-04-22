@@ -24,20 +24,20 @@ gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
          end
-gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
+gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎ᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
-FADZooooooooooooooooooooooooooooooooooooooooooo HOME()
+FADZooooooooooooooooooooooooooooooooooooooooooo ffhome()
 Menu = gg.FADZoooooooooooooooooooooooooooooooooooooooooo({
 '⚠️Script Not Finished',
 '🔙Exit'
-}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
+}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎ᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
 if Menu == nil then
 else
 if Menu == 1 then
 alertf()
 end
 if Menu == 2 then
-exit()
+ffexit()
 end-- 𝖎𝖋
 FadHaxor = -1
 end
@@ -46,30 +46,30 @@ end
 FADZooooooooooooooooooooooooooooooooooooooooooo alertf()
 algert = gg.alert("The script hasn't finished yet, it will be added as soon as possible.", "Back")
 if algert == 1 then
-HOME()
+ffhome()
 end
 end
 
-FADZooooooooooooooooooooooooooooooooooooooooooo exit()
+FADZooooooooooooooooooooooooooooooooooooooooooo ffexit()
 alert = gg.alert([[⚠️Exit Script ?
 You have to click again to Exit.]],"【Sure】","【No】")
                 if alert == 1 then
                  print([[◆ ━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━ ◆
                                ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™
-Game: 👑𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
+Game: 👑𝙵𝚛𝚎𝚎 𝙵𝚒𝚛𝚎ᵛᵛᶦᵖ]].."\n".."Exit Detail : "..os.FADZooooooooooooooooooooooooooooooooooooooooooooooo())
   print("◆ ━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━ ◆")
           gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
           gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("Closed in : %Y/%m/%d  : %H:%M:%S"))
           os.exit()
         else
-       HOME()
+       ffhome()
         end
          end    
          
            while true do
            if gg.FADZooooooooooooooooooooooooooooooooooooooooo() then
             gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
-             HOME()
+             ffhome()
              else
              end
             end
@@ -79,6 +79,6 @@ while true do
     gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(false)
   end
   if FadHaxor == 1 then
-    HOME()
+    ffhome()
   end
 end
