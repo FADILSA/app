@@ -1,22 +1,22 @@
-print(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
+print(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑PUBG Mobileᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
        KC = 'Ｌｏａｄｉｎｇ...';
          for i = 1, #KC do
          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
          end
-gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
+gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑PUBG Mobileᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
 FADZooooooooooooooooooooooooooooooooooooooooooo pubghome()
 Menu = gg.FADZoooooooooooooooooooooooooooooooooooooooooo({
-'🅜🅔🅜🅞🅡🅨 🅐🅝🅣🅘 🅑🅐🅝🅝🅔🅓',
-'🆆🅴🅰🅿🅾🅽🆂 🅷🅰🅲🅺',
-'🆆🅰🅻🅻🅷🅰🅲🅺',
-'🆂🅿🅴🅴🅳 🅷🅰🅲🅺',
-'🅽🅾 🅶🆁🅰🆂🆂 / 🆃🆁🅴🅴🆂',
-'🅾🆃🅷🅴🆁 🅷🅰🅲🅺',
+'Memory Bypass',
+'Weapon Hack',
+'WallHack',
+'Speed Hack',
+'No Grass / Trees',
+'Other Hack',
 '🔙Exit'
-}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️𝙿𝚄𝙱𝙶 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
+}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️PUBG Mobileᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳Time: %Y/%m/%d  : %H:%M:%S⏳ ')))
 if Menu == nil then
 else
 if Menu == 1 then
@@ -51,8 +51,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo otherx()
     "Big Head【𝐆𝐚𝐦𝐞】",
     "Esp【𝐆𝐚𝐦𝐞】",
     "FlyCar【𝐆𝐚𝐦𝐞】",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Other Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Other Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S⏳")))
   if SSE == nil then
   else
     if SSE[1] == true then
@@ -217,8 +217,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo vegeme()
     " No Grass v1【𝐋𝐨𝐛𝐛𝐲】",
     " No Grass v2【𝐆𝐚𝐦𝐞】",
     " No Grass/Trees【𝐆𝐚𝐦𝐞】",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁NoGrass/Trees Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁NoGrass/Trees Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if SSR == nil then
   else
     if SSR[1] == true then
@@ -327,8 +327,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo xu()
     "  MK",
     "  SLR",
     "  QBU",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Fix No Damage Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Fix No Damage Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if KTO == nil then
   else
     if KTO[1] == true then
@@ -759,8 +759,8 @@ end
     "SpeedKnock【𝐆𝐚𝐦𝐞】",
     "Speed Jeep【𝐆𝐚𝐦𝐞】",
     " Speed Car【𝐆𝐚𝐦𝐞】",
-      '【𝕭𝖆𝖈𝖐】'
-    }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Speed Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+      '【Back】'
+    }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Speed Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
     if gh == nil then
     else
       if gh[1] == true then
@@ -1073,17 +1073,59 @@ FADZooooooooooooooooooooooooooooooooooooooooooo ClearLog()
  os.remove('/data/data/com.rekoo.pubgm/code_cache')
 end-- 𝖋𝖚𝖓𝖈𝖙𝖎𝖔𝖓
 FADZooooooooooooooooooooooooooooooooooooooooooo bypass1()
-    YT = gg.alert('⚠️Make sure you in Lobby⚠️\n⚠️Active 10mins Ban fixed every new match in Game⚠️', '﴾⏩Lobby﴿', '﴾🚫10Mins﴿', '﴾【𝕭𝖆𝖈𝖐】﴿')
+    YT = gg.alert('⛔PLEASE READ BEFORE COMPLAINT 10MINS BANNED⛔\n\n⚠️Make sure you in Lobby⚠️\n⚠️Actived ON OFF every 00:00 Zone\nThis is to reduce the risk of 10-minute Banned⚠️', '﴾⏩Lobby﴿', '﴾🚫ON OFF﴿', '﴾【Back】﴿')
     if YT == 1 then
     bystart()
     end
     if YT == 2 then
-    bys10m()
+    DATAONOFF()
+      ONDC()
+      OFFDC()
     end
     if YT == 3 then
     pubghome()
     end
     end
+    
+    function DATAONOFF()
+  gg.clearResults()
+  gg.setRanges(8)
+  gg.searchNumber("1.3132476e-38;1.956023e-35;1.1754945e-37::9", 16, false, 536870912, 0, -1)
+  if gg.getResultCount() == 0 then
+  else
+    gg.searchNumber("1.1754945e-37", 16, false, 536870912, 0, -1)
+    table.insert(ODC, gg.getResults(21))
+    gg.editAll("0", 16)
+    table.insert(EDC, gg.getResults(21))
+    gg.toast("Disconect Enabled")
+    gg.clearResults()
+    gg.sleep(500)
+    for i = #ODC, 1, -1 do
+      gg.setValues(ODC[i])
+    end
+    gg.toast("Disconect Disabled")
+  end
+end
+
+function ONDC()
+  for i = #EDC, 1, -1 do
+    gg.setValues(EDC[i])
+  end
+  gg.sleep(1000)
+  for i = #ODC, 1, -1 do
+    gg.setValues(ODC[i])
+  end
+  gg.toast("Disconect Enabled")
+end
+
+function OFFDC()
+  for i = #ODC, 1, -1 do
+    gg.setValues(ODC[i])
+  end
+  gg.toast("Disconect Disabled")
+end
+ODC = {}
+EDC = {}
     
 FADZooooooooooooooooooooooooooooooooooooooooooo bys10m()
  gg.clearResults()
@@ -1424,8 +1466,8 @@ weapzmn = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
     " Antena 【𝐆𝐚𝐦𝐞】",
     "📁Zoom Hack Menu",
     "📁Scope Hack Menu",
-' 【𝕭𝖆𝖈𝖐】'
-}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('📁Weapons Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳')))
+' 【Back】'
+}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('📁Weapons Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳')))
   if weapzmn == nil then
   else
     if weapzmn[1] == true then
@@ -1475,8 +1517,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo ZoomMenu()
     " Zoom 6X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
     " Zoom 8X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
     " Zoom 15X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁 Zoom Hack Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁 Zoom Hack Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if SSU == nil then
   else
     if SSU[1] == true then
@@ -1710,8 +1752,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo snapzmenu()
     "️ [710 SnapDragon]",
     "️ [675 SnapDragon]",
     "️ [660 SnapDragon]",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack SnapDragon Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack SnapDragon Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if W == 1 then
     skycolormenupro()
   end
@@ -1800,7 +1842,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP1MENU()
     "— 660 Color Yellow —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -1882,7 +1924,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP2MENU()
     "— 675 Color Yellow —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -1992,7 +2034,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP3MENU()
     "— 710 Color Yellow —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -2073,7 +2115,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP4MENU()
     "— 800-400 Color Yellow —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -2155,7 +2197,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP5MENU()
     "— 835-435 Color Yellow —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -2236,7 +2278,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP6MENU()
     "— 845 Color Green —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -2313,7 +2355,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SNAP7MENU()
     "— 855 Color Yellow —",
     "— Color Red v2 HDR —",
     "— Color Red v3 —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁 MENU")
   if SNAP == nil then
   else
@@ -2419,7 +2461,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo skycolormenupro()
     "— Clear Sky —",
     "— White Sky —",
     "— Black Sky —",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "MENU")
   if PDQ == nil then
   else
@@ -2479,7 +2521,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo whmenux()
     "WallHack Exynos",
     "WallHack Kirin",
     "WallHack Snapdragon",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu\n⏳𝙏𝙞𝙢??: %Y/%m/%d  : %H:%M:%S ⏳")))
   if WALLHACK == nil then
   else
@@ -2530,8 +2572,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHMTK()
     " C P60 Red",
     " C P60 Yellow",
     " C P60 Blue",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu Mediatek\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu Mediatek\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if MN1 == nil then
   else
     if MN1[1] == true then
@@ -2623,7 +2665,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP60()
   MP60 = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
     " WH P60 OTOMATIS",
     " WH P60 MANUAL",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁Menu")
   if MP60 == nil then
   else
@@ -2665,7 +2707,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP35()
   MP35 = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
     " WH P35 OTOMATIS",
     " WH P35 MANUAL",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁Menu")
   if MP35 == nil then
   else
@@ -2710,7 +2752,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP70()
   MP70 = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
     " WH P70 OTOMATIS",
     " WH P70 MANUAL",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁Menu")
   if MP70 == nil then
   else
@@ -2751,7 +2793,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP22()
   MP22 = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
     " WH P22 OTOMATIS",
     " WH P22 MANUAL",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁Menu")
   if MP22 == nil then
   else
@@ -3086,8 +3128,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY()
     " WH Exynos 9610",
     " WH Exynos 9810",
     " Colour Exynos",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu Exynos\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu Exynos\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if MN2 == nil then
   else
     if MN2[1] == true then
@@ -3358,7 +3400,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo CEXY()
     " C Red Exynos 7870",
     " C Yellow Exynos 7870",
     " C Red Exynos 8890",
-    "【𝕭𝖆𝖈𝖐】"
+    "【Back】"
   }, nil, "📁Menu")
   if Cexynos1 == nil then
   else
@@ -3504,8 +3546,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHKIRIN()
     " WH Kirin 980 [Manual]",
     " WH Kirin 970",
     " Colour Kirin",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Kirin Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Kirin Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if MN3 == nil then
   else
     if MN3[1] == true then
@@ -3660,8 +3702,8 @@ FADZooooooooooooooooooooooooooooooooooooooooooo CKIRIN()
     " C Kirin 659 Red",
     " C Kirin 710 Green",
     " C Kirin 710 Yellow",
-    "【𝕭𝖆𝖈𝖐】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+    "【Back】"
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if Ckirin1 == nil then
   else
     if Ckirin1[1] == true then
@@ -3789,8 +3831,8 @@ end
     " Sit Scope Front【𝐆𝐚??𝐞】"..scf,
     " Stand Scope Front【𝐆𝐚𝐦𝐞】"..ssf,
     " Stand Scope Left【𝐆𝐚𝐦𝐞】"..ssl,
-      '【𝕭𝖆𝖈𝖐】'
-    }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Scope Menu\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S ⏳")))
+      '【Back】'
+    }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Scope Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
     if gh == nil then
     else
       if gh[1] == true then
