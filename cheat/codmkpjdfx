@@ -1,17 +1,17 @@
-print(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
+print(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑COD Mobileᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
        KC = 'Ｌｏａｄｉｎｇ...';
          for i = 1, #KC do
          gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(KC:sub(1, i).."🔐");
          gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(100);
          end
-gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
+gg.alert(os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\nWelcome 👑VVIP Members !\nGame: 👑COD Mobileᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
 gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooo(true)
 FADZooooooooooooooooooooooooooooooooooooooooooo codmhome()
 Menu = gg.FADZoooooooooooooooooooooooooooooooooooooooooo({
 '⚠️Script Not Finished',
 '🔙Exit'
-}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️𝙲𝙾𝙳 𝙼𝚘𝚋𝚒𝚕𝚎ᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳𝙏𝙞𝙢𝙚: %Y/%m/%d  : %H:%M:%S⏳ ')))
+}, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo('🛡️🄵🄰🄳🄷🄰🅇🛡️COD Mobileᵛᵛᶦᵖ\n🌐www.menuhack.blogspot.com🌐\n⏳Time: %Y/%m/%d  : %H:%M:%S⏳ ')))
 if Menu == nil then
 else
 if Menu == 1 then
