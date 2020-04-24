@@ -1073,7 +1073,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo ClearLog()
  os.remove('/data/data/com.rekoo.pubgm/code_cache')
 end-- 𝖋𝖚𝖓𝖈𝖙𝖎𝖔𝖓
 FADZooooooooooooooooooooooooooooooooooooooooooo bypass1()
-    YT = gg.alert('⛔PLEASE READ BEFORE COMPLAINT 10MINS BANNED⛔\n\n⚠️Make sure you in Lobby⚠️\n⚠️Actived ON OFF every 00:00 Zone\nThis is to reduce the risk of 10-minute Banned⚠️', '﴾⏩Lobby﴿', '﴾🚫ON OFF﴿', '﴾【Back】﴿')
+    YT = gg.alert('⛔PLEASE READ CAREFULLY!!⛔\n1.Click ⏩Lobby for Bypass\n    [1x Lobby].\n2.Click 🚫ON OFF every 00:00 Zone\n    [Every New Game].   Detail Map:\n                                                 ERANGEL:3x\n                                                 MIRAMAR:3x\n                                                 SANHOK:2x\n                                                 VIKENDI:3x\n\nℹ️Guide:\nAfter you enable this you will return to lobby, and you will get a notification Continue Match [Click Yes].\n⛔This is to reduce the risk of 10Mins Ban⛔\nℹ️And this is also the way without turning off the Connection and Without waiting.', '﴾⏩Lobby﴿', '﴾🚫ON OFF﴿', '﴾【Back】﴿')
     if YT == 1 then
     bystart()
     end
@@ -1087,7 +1087,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo bypass1()
     end
     end
     
-    function DATAONOFF()
+    FADZooooooooooooooooooooooooooooooooooooooooooo DATAONOFF()
   gg.clearResults()
   gg.setRanges(8)
   gg.searchNumber("1.3132476e-38;1.956023e-35;1.1754945e-37::9", 16, false, 536870912, 0, -1)
@@ -1097,32 +1097,32 @@ FADZooooooooooooooooooooooooooooooooooooooooooo bypass1()
     table.insert(ODC, gg.getResults(21))
     gg.editAll("0", 16)
     table.insert(EDC, gg.getResults(21))
-    gg.toast("Disconect Enabled")
+    gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Disconect Enabled")
     gg.clearResults()
-    gg.sleep(500)
+    gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(500)
     for i = #ODC, 1, -1 do
       gg.setValues(ODC[i])
     end
-    gg.toast("Disconect Disabled")
+    gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Disconect Disabled")
   end
 end
 
-function ONDC()
+FADZooooooooooooooooooooooooooooooooooooooooooo ONDC()
   for i = #EDC, 1, -1 do
     gg.setValues(EDC[i])
   end
-  gg.sleep(1000)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(1000)
   for i = #ODC, 1, -1 do
     gg.setValues(ODC[i])
   end
-  gg.toast("Disconect Enabled")
+  gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Disconect Enabled")
 end
 
-function OFFDC()
+FADZooooooooooooooooooooooooooooooooooooooooooo OFFDC()
   for i = #ODC, 1, -1 do
     gg.setValues(ODC[i])
   end
-  gg.toast("Disconect Disabled")
+  gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Disconect Disabled")
 end
 ODC = {}
 EDC = {}
