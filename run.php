@@ -1,7 +1,7 @@
 <?php
 
 
-include 'tri_req.php';
+include 'z.php';
 echo "FadzHaxor";
 echo "\n\n"
 $tri = new tri();
