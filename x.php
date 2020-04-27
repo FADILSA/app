@@ -2,9 +2,9 @@
 <?php
 
 
-include 'tri_req.php';
+include 'z.php';
 echo "FadzHaxor";
-echo "\n\n"
+echo "\n\n";
 $tri = new tri();
 $imei = "868880043302499";
 echo "Nomor : ";
