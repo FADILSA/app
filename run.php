@@ -1,10 +1,9 @@
-
 <?php
 
 
-include 'z.php';
+include 'tri_req.php';
 echo "FadzHaxor";
-echo "\n\n";
+echo "\n\n"
 $tri = new tri();
 $imei = "868880043302499";
 echo "Nomor : ";
@@ -21,9 +20,28 @@ $id = json_decode($id,true);
 $id = $id['data'][0]['rewardTransactionId'];
 for($id1 = 1500; $id1 < 1600;$id1++)
 {
-  $gas = $tri->claim($bearer,$id,$id1);
+  $gas = 
+$tri->claim($bearer,$id,$id1);
   echo $gas . "\r\n";
-  sleep(2);
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+$tri->claim($bearer,$id,$id1);
+  echo $gas . "\r\n";
+  sleep(1);
 }
 
 
