@@ -22,32 +22,8 @@ for($id1 = 1500; $id1 < 1600;$id1++)
 {
   $gas = 
 $tri->claim($bearer,$id,$id1);
-  echo $gas . "\r\nSukses dikirim by\nFadilHaxor\n";
-  sleep(2);
-}
-{
-  $gas = 
-$tri->claim($bearer,$id,$id1);
-  echo $gas . "\r\nSukses dikirim by\nFadilHaxor\n";
-  sleep(2);
-}
-{
-  $gas = 
-$tri->claim($bearer,$id,$id1);
-  echo $gas . "\r\nSukses dikirim by\nFadilHaxor\n";
-  sleep(2);
-}
-{
-  $gas = 
-$tri->claim($bearer,$id,$id1);
-  echo $gas . "\r\nSukses dikirim by\nFadilHaxor\n";
-  sleep(2);
-}
-{
-  $gas = 
-$tri->claim($bearer,$id,$id1);
-  echo $gas . "\r\nSukses dikirim by\nFadilHaxor\n";
-  sleep(2);
+  echo $gas . "\r\n======================\nSukses dikirim by\n         FadilHaxor\n======================\n";
+  sleep(1);
 }
 
 
