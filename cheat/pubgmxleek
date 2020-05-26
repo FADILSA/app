@@ -42,11 +42,11 @@ end-- 𝖋𝖚𝖓𝖈𝖙𝖎𝖔𝖓
 
 FADZooooooooooooooooooooooooooooooooooooooooooo otherx()
   SSE = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
-    "Antenna Always【𝐆𝐚𝐦𝐞】",
-    "Ipad View【𝐆𝐚𝐦𝐞】",
-    "Big Head【𝐆𝐚𝐦𝐞】",
-    "Esp【𝐆𝐚𝐦𝐞】",
-    "FlyCar【𝐆𝐚𝐦𝐞】",
+    "Antenna Always【Game】",
+    "Ipad View【Game】",
+    "Big Head【Game】",
+    "Esp【Game】",
+    "FlyCar【Game】",
     "【Back】"
   }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Other Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S⏳")))
   if SSE == nil then
@@ -208,11 +208,11 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo vegeme()
   SSR = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
-    " No Fog v1【𝐆𝐚𝐦𝐞】",
-    " No Fog v2【𝐋𝐨𝐛𝐛𝐲】",
-    " No Grass v1【𝐋𝐨𝐛𝐛𝐲】",
-    " No Grass v2【𝐆𝐚𝐦𝐞】",
-    " No Grass/Trees【𝐆𝐚𝐦𝐞】",
+    " No Fog v1【Game】",
+    " No Fog v2【Lobby】",
+    " No Grass v1【Lobby】",
+    " No Grass v2【Game】",
+    " No Grass/Trees【Game】",
     "【Back】"
   }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁NoGrass/Trees Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if SSR == nil then
@@ -747,14 +747,14 @@ end
   ms = on
     FADZooooooooooooooooooooooooooooooooooooooooooo Flashm()
     gh = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
-      'Fix No Damage Flash Run【𝐆𝐚𝐦𝐞】',
-      'Flash Run【𝐆𝐚𝐦𝐞】' .. flash,
-    "Micro Speed【𝐆𝐚𝐦𝐞】"..ms,
-    "Speed Fall+Parachute【𝐆𝐚𝐦𝐞】",
-    "Speed Parachute【𝐆𝐚𝐦𝐞】",
-    "SpeedKnock【𝐆𝐚𝐦𝐞】",
-    "Speed Jeep【𝐆𝐚𝐦𝐞】",
-    " Speed Car【𝐆𝐚𝐦𝐞】",
+      'Fix No Damage Flash Run【Game】',
+      'Flash Run【Game】' .. flash,
+    "Micro Speed【Game】"..ms,
+    "Speed Fall+Parachute【Game】",
+    "Speed Parachute【Game】",
+    "SpeedKnock【Game】",
+    "Speed Jeep【Game】",
+    " Speed Car【Game】",
       '【Back】'
     }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Speed Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
     if gh == nil then
@@ -1249,15 +1249,15 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo Menu2()
 weapzmn = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
-    " AimLock 【𝐋𝐨𝐛𝐛𝐲】",
-    " No Recoil 100% 【𝐆𝐚𝐦𝐞/𝐋𝐨𝐛𝐛𝐲】",
-    " Less Recoil 【𝐋𝐨𝐛𝐛𝐲】",
-    " Magic Bullet 【𝐆𝐚𝐦𝐞/𝐋𝐨𝐛𝐛𝐲】",
-    " Tab View 【𝐆𝐚𝐦𝐞】",
-    " Auto HS30% 【𝐆𝐚𝐦𝐞】",
-    " Auto HS50% 【𝐆𝐚𝐦𝐞】",
-    " Auto HS99% 【𝐆𝐚𝐦𝐞】",
-    " Antena 【𝐆𝐚𝐦𝐞】",
+    " AimLock 【Lobby】",
+    " No Recoil 100% 【Game/Lobby】",
+    " Less Recoil 【Lobby】",
+    " Magic Bullet 【Game/Lobby】",
+    " Tab View 【Game】",
+    " Auto HS30% 【Game】",
+    " Auto HS50% 【Game】",
+    " Auto HS99% 【Game】",
+    " Antena 【Game】",
     "📁Zoom Hack Menu",
     "📁Scope Hack Menu",
 ' 【Back】'
@@ -1307,10 +1307,10 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo ZoomMenu()
   SSU = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
-    " Zoom 4X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
-    " Zoom 6X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
-    " Zoom 8X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
-    " Zoom 15X Holographic or Collimator【𝐆𝐚𝐦𝐞】",
+    " Zoom 4X Holographic or Collimator【Game】",
+    " Zoom 6X Holographic or Collimator【Game】",
+    " Zoom 8X Holographic or Collimator【Game】",
+    " Zoom 15X Holographic or Collimator【Game】",
     "【Back】"
   }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁 Zoom Hack Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if SSU == nil then
@@ -3608,12 +3608,12 @@ end
   ssl = on
     FADZooooooooooooooooooooooooooooooooooooooooooo ScopeMenu()
     gh = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
-    " Sit Scope【𝐆𝐚𝐦𝐞】" ..sscope,
-    " Sit Scope Right【𝐆𝐚𝐦𝐞】"..scr,
-    " Sit Scope Left【𝐆𝐚𝐦𝐞】"..scl,
-    " Sit Scope Front【𝐆𝐚??𝐞】"..scf,
-    " Stand Scope Front【𝐆𝐚𝐦𝐞】"..ssf,
-    " Stand Scope Left【𝐆𝐚𝐦𝐞】"..ssl,
+    " Sit Scope【Game】" ..sscope,
+    " Sit Scope Right【Game】"..scr,
+    " Sit Scope Left【Game】"..scl,
+    " Sit Scope Front【Game】"..scf,
+    " Stand Scope Front【Game】"..ssf,
+    " Stand Scope Left【Game】"..ssl,
       '【Back】'
     }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁Scope Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
     if gh == nil then
