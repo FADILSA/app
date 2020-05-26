@@ -900,12 +900,12 @@ gg.clearResults()
 gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.searchNumber("-1,296,744,149,883,614,555", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 gg.getResults(99)
-gg.editAll(" -1,296,744,153,870,237,696", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.editAll(" -1,296,744,153,870,237,696",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.clearResults()
 gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.searchNumber("-1,904,987,454,010,553,855", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 gg.getResults(99)
-gg.editAll("-1,904,987,454,002,165,247", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.editAll("-1,904,987,454,002,165,247",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.clearResults()
 gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -917,12 +917,12 @@ gg.clearResults()
 gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.searchNumber("-1,296,744,153,870,237,696", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 gg.getResults(99)
-gg.editAll(" -1,296,744,149,883,614,555", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.editAll(" -1,296,744,149,883,614,555",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.clearResults()
 gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.searchNumber("-1,904,987,454,002,165,247", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 gg.getResults(99)
-gg.editAll("-1,904,987,454,010,553,855", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.editAll("-1,904,987,454,010,553,855",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.clearResults()
 gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Deactived")
 end
@@ -975,7 +975,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo T3()
   gg.FADZooooooooooooooooooooooooooooooooooooooooooooo(L1_12(S, "383025"))
   gg.searchNumber(L1_12(Z, "322E373138353139652D3433463B332E37363135383139652D3337463B322E30463B302E3030393939393939393738463A3A323030"), gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber(L1_12(K, "3235373B323133313B30467E3939393939463B303A3A3530"), gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResultsCount()
   gg.searchNumber(L1_12(L, "30467E393939393946"), gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
@@ -1095,7 +1095,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo bypass1()
     table.insert(EDC, gg.getResults(21))
     gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Disconect Enabled")
     gg.clearResults()
-    gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(500)
+    gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 500)
     for i = #ODC, 1, -1 do
       gg.setValues(ODC[i])
     end
@@ -1107,7 +1107,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo ONDC()
   for i = #EDC, 1, -1 do
     gg.setValues(EDC[i])
   end
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(1000)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 1000)
   for i = #ODC, 1, -1 do
     gg.setValues(ODC[i])
   end
@@ -1125,7 +1125,7 @@ EDC = {}
     
 FADZooooooooooooooooooooooooooooooooooooooooooo bys10m()
  gg.clearResults()
-gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
 gg.searchNumber("16384;4448", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 gg.refineNumber("4448", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 gg.getResults(99900000)
@@ -1140,257 +1140,112 @@ gg.clearResults()
 gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")   
 end
 FADZooooooooooooooooooooooooooooooooooooooooooo bystart()
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_28)
-  A0_28 = A0_28:gsub(" ", "")
-  return (A0_28:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_29)
-    return string.char(tonumber(A0_29, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("B2 BB B4 B0 C1 A1 B4 C2 C4 BB C3 C2")]()
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_30)
-  A0_30 = A0_30:gsub(" ", "")
-  return (A0_30:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_31)
-    return string.char(tonumber(A0_31, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("C2 B4 C3 A1 B0 BD B6 B4 C2")](gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_32)
-  A0_32 = A0_32:gsub(" ", "")
-  return (A0_32:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_33)
-    return string.char(tonumber(A0_33, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("C2 B4 B0 C1 B2 B7 9D C4 BC B1 B4 C1")]("2.2958874e-41;16384D;16384D;16384D;16384D;16384D::24", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-if gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_34)
-  A0_34 = A0_34:gsub(" ", "")
-  return (A0_34:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_35)
-    return string.char(tonumber(A0_35, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("B6 B4 C3 A1 B4 C2 C4 BB C3 92 BE C4 BD C3")]() == 0 then
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_36)
-    A0_36 = A0_36:gsub(" ", "")
-    return (A0_36:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_37)
-      return string.char(tonumber(A0_37, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B0 BB B4 C1 C3")]("Bypass Failed to run, please restart the script")
-  os[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_38)
-    A0_38 = A0_38:gsub(" ", "")
-    return (A0_38:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_39)
-      return string.char(tonumber(A0_39, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B4 C7 B8 C3")]()
-else
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_40)
-    A0_40 = A0_40:gsub(" ", "")
-    return (A0_40:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_41)
-      return string.char(tonumber(A0_41, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("C2 B4 B0 C1 B2 B7 9D C4 BC B1 B4 C1")]("2.2958874e-41", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  resultsCount = gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_42)
-    A0_42 = A0_42:gsub(" ", "")
-    return (A0_42:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_43)
-      return string.char(tonumber(A0_43, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B6 B4 C3 A1 B4 C2 C4 BB C3 92 BE C4 BD C3")]()
-  results = gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_44)
-    A0_44 = A0_44:gsub(" ", "")
-    return (A0_44:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_45)
-      return string.char(tonumber(A0_45, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B6 B4 C3 A1 B4 C2 C4 BB C3 C2")](resultsCount)
-  for i = 1, resultsCount do
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_46)
-      A0_46 = A0_46:gsub(" ", "")
-      return (A0_46:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_47)
-        return string.char(tonumber(A0_47, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_48)
-      A0_48 = A0_48:gsub(" ", "")
-      return (A0_48:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_49)
-        return string.char(tonumber(A0_49, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_50)
-      A0_50 = A0_50:gsub(" ", "")
-      return (A0_50:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_51)
-        return string.char(tonumber(A0_51, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_52)
-      A0_52 = A0_52:gsub(" ", "")
-      return (A0_52:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_53)
-        return string.char(tonumber(A0_53, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_54)
-      A0_54 = A0_54:gsub(" ", "")
-      return (A0_54:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_55)
-        return string.char(tonumber(A0_55, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_56)
-      A0_56 = A0_56:gsub(" ", "")
-      return (A0_56:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_57)
-        return string.char(tonumber(A0_57, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-    gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_58)
-      A0_58 = A0_58:gsub(" ", "")
-      return (A0_58:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_59)
-        return string.char(tonumber(A0_59, 16) - 79)
-      end--Fᴜɴᴄᴛɪᴏɴ
-      ))
-    end--Fᴜɴᴄᴛɪᴏɴ
-    )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]({})
-  end--Fᴏʀ
-end--Eʟsᴇ
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_60)
-  A0_60 = A0_60:gsub(" ", "")
-  return (A0_60:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_61)
-    return string.char(tonumber(A0_61, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("B2 BB B4 B0 C1 A1 B4 C2 C4 BB C3 C2")]()
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_62)
-  A0_62 = A0_62:gsub(" ", "")
-  return (A0_62:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_63)
-    return string.char(tonumber(A0_63, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("C2 B4 C3 A1 B0 BD B6 B4 C2")](gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_64)
-  A0_64 = A0_64:gsub(" ", "")
-  return (A0_64:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_65)
-    return string.char(tonumber(A0_65, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("C2 B4 B0 C1 B2 B7 9D C4 BC B1 B4 C1")]("4448", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_66)
-  A0_66 = A0_66:gsub(" ", "")
-  return (A0_66:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_67)
-    return string.char(tonumber(A0_67, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("B6 B4 C3 A1 B4 C2 C4 BB C3 C2")](99900000)
-gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_68)
-  A0_68 = A0_68:gsub(" ", "")
-  return (A0_68:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_69)
-    return string.char(tonumber(A0_69, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("B4 B3 B8 C3 90 BB BB")]("0", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
-if gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_70)
-  A0_70 = A0_70:gsub(" ", "")
-  return (A0_70:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_71)
-    return string.char(tonumber(A0_71, 16) - 79)
-  end--Fᴜɴᴄᴛɪᴏɴ
-  ))
-end--Fᴜɴᴄᴛɪᴏɴ
-)("B6 B4 C3 A1 B4 C2 C4 BB C3 92 BE C4 BD C3")]() == 0 then
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_72)
-    A0_72 = A0_72:gsub(" ", "")
-    return (A0_72:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_73)
-      return string.char(tonumber(A0_73, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B0 BB B4 C1 C3")]([[
-Bypass Failed ,Restart Game and Script]])
-else
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_74)
-    A0_74 = A0_74:gsub(" ", "")
-    return (A0_74:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_75)
-      return string.char(tonumber(A0_75, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B0 BB B4 C1 C3")]("Bypass Active")
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_76)
-    A0_76 = A0_76:gsub(" ", "")
-    return (A0_76:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_77)
-      return string.char(tonumber(A0_77, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B6 B4 C3 A1 B4 C2 C4 BB C3 C2")](99900000)
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_78)
-    A0_78 = A0_78:gsub(" ", "")
-    return (A0_78:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_79)
-      return string.char(tonumber(A0_79, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B4 B3 B8 C3 90 BB BB")]("0", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
-  gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_80)
-    A0_80 = A0_80:gsub(" ", "")
-    return (A0_80:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_81)
-      return string.char(tonumber(A0_81, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B6 B4 C3 A1 B4 C2 C4 BB C3 C2")](99900000)
-  for i, i in ipairs((gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_82)
-    A0_82 = A0_82:gsub(" ", "")
-    return (A0_82:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_83)
-      return string.char(tonumber(A0_83, 16) - 79)
-    end--Fᴜɴᴄᴛɪᴏɴ
-    ))
-  end--Fᴜɴᴄᴛɪᴏɴ
-  )("B6 B4 C3 A1 B4 C2 C4 BB C3 C2")](99900000))) do
-    if i.flags == gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo then
-      gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_84)
-        A0_84 = A0_84:gsub(" ", "")
-        return (A0_84:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_85)
-          return string.char(tonumber(A0_85, 16) - 79)
-        end--Fᴜɴᴄᴛɪᴏɴ
-        ))
-      end--Fᴜɴᴄᴛɪᴏɴ
-      )("B0 B3 B3 9B B8 C2 C3 98 C3 B4 BC C2")]((gg[(FADZooooooooooooooooooooooooooooooooooooooooooo(A0_86)
-        A0_86 = A0_86:gsub(" ", "")
-        return (A0_86:gsub("..", FADZooooooooooooooooooooooooooooooooooooooooooo(A0_87)
-          return string.char(tonumber(A0_87, 16) - 79)
-        end--Fᴜɴᴄᴛɪᴏɴ
-        ))
-      end--Fᴜɴᴄᴛɪᴏɴ
-      )("B6 B4 C3 A1 B4 C2 C4 BB C3 C2")](99900000)))
-    end--Iғ
-  end--Fᴏʀ
-end--Eʟsᴇ
+gg.clearResults()
+gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.searchNumber("67109377;12547::100", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+gg.searchNumber("12547", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+jg = gg.getResults(100)
+sl = gg.getResultCount()
+gg.alert("Bypass 1 Done")
+if 100 < sl then
+  sl = 100
+end--Ꮲsᴀʏᴄʜᴏ⸙
+for i = 1, sl do
+  dzy = jg[i].address
+  gg.addListItems({
+    [1] = {
+      address = dzy,
+      flags = gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,
+      freeze = true,
+      value = 0
+    }
+  })
+end--Ꮲsᴀʏᴄʜᴏ⸙
+gg.clearResults()
+gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.searchNumber("0;0~20;131586::9", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+gg.searchNumber("131586", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+jg = gg.getResults(100)
+sl = gg.getResultCount()
+gg.alert("Bypass 2 Done")
+if 100 < sl then
+  sl = 100
+end--Ꮲsᴀʏᴄʜᴏ⸙
+for i = 1, sl do
+  dzy = jg[i].address
+  gg.addListItems({
+    [1] = {
+      address = dzy,
+      flags = gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,
+      freeze = true,
+      value = 0
+    }
+  })
+end--Ꮲsᴀʏᴄʜᴏ⸙
+gg.clearResults()
+gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.searchNumber("67109377;12547::100", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+gg.searchNumber("12547", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+jg = gg.getResults(100)
+sl = gg.getResultCount()
+gg.alert("Bypass 3 Done")
+if 100 < sl then
+  sl = 100
+end--Ꮲsᴀʏᴄʜᴏ⸙
+for i = 1, sl do
+  dzy = jg[i].address
+  gg.addListItems({
+    [1] = {
+      address = dzy,
+      flags = gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,
+      freeze = true,
+      value = 0
+    }
+  })
+end--Ꮲsᴀʏᴄʜᴏ⸙
+gg.clearResults()
+gg.clearResults()
+gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.searchNumber("0;0~20;131586::9", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+gg.searchNumber("131586", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+jg = gg.getResults(100)
+sl = gg.getResultCount()
+gg.alert("Bypass 4 Done")
+if 100 < sl then
+  sl = 100
+end--Ꮲsᴀʏᴄʜᴏ⸙
+for i = 1, sl do
+  dzy = jg[i].address
+  gg.addListItems({
+    [1] = {
+      address = dzy,
+      flags = gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,
+      freeze = true,
+      value = 0
+    }
+  })
+end--Ꮲsᴀʏᴄʜᴏ⸙
+gg.clearResults()
+gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+gg.searchNumber('"67109633"', gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+gg.refineNumber('"67109633"', gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
+
+revert = gg.getResults(11082001, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(11082001, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo then
+		v.value = '"4451"'
+		v.freeze = true
+	end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Bypass Pengkik Gaming Active")
 gg.clearResults()
 end
+
+
 FADZooooooooooooooooooooooooooooooooooooooooooo Menu2()
 weapzmn = gg.FADZoooooooooooooooooooooooooooooooooooooooooooo({
     " AimLock 【𝐋𝐨𝐛𝐛𝐲】",
@@ -1743,7 +1598,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo FixScope()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("2.718519e-43F;3.7615819e-37F;2.0F;-1.0F;1.0F;-127.0F;0.00999999978F::200", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber(2, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(3)
@@ -1932,9 +1787,9 @@ FADZooooooooooooooooooooooooooooooooooooooooooo snap2wallhackcolor2()
   gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("8,200", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("8,200", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineAddress("0B8", -1, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("8,200", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1)
@@ -1999,13 +1854,13 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo snap3wallhack()
     gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("2F;1.66433004e10F:37", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("2", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(5)
   gg.editAll("120", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4.8699562e21F;2F:461", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("2", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(5)
@@ -2070,7 +1925,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo snap4wallhack()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("2.9427268e-44;2.0;3.0828566e-44;-1.0;3.2229865e-44;3.3631163e-44;3.643376e-44", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("2", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(20)
@@ -2336,7 +2191,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo snap7colorred()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("8,196D;8,192D;8,200D::", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("8200", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(10)
@@ -2610,7 +2465,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP60()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P60AUTO()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("5.1567783e-43;3.5873241e-43;3.2229865e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2623,7 +2478,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P60MANUAL()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("5.1567783e-43;3.5873241e-43;3.2229865e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2653,7 +2508,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P35AUTO()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("\"2.0F;6.0F;5.0F;1.0F;0.0F;0.0F;3.0F;4.0F::569\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("\"3\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(200, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -2668,7 +2523,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P35MANUAL()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("5;3;1;5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("3", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -2697,7 +2552,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP70()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P70AUTO()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.793662e-43;3.5873241e-43;1.1210388e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2709,7 +2564,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo P70AUTO()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P70MANUAL()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.793662e-43;3.5873241e-43;1.1210388e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(20)
@@ -2739,7 +2594,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P22AUTO()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("\"2.0F;6.0F;5.0F;1.0F;0.0F;0.0F;3.0F;4.0F::569\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("\"3\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(200, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -2754,7 +2609,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo P22MANUAL()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("5;3;1;5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("3", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -2775,7 +2630,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP10()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHP23()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("7.70714155e-44;5.15677835e-43;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2787,7 +2642,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHP23()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHP65()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.793662e-43;3.5873241e-43;1.1210388e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2800,7 +2655,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHX20()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("0.5;360;640;1;1;1;-640;360::", gg.POINTER_WRITABLE, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.POINTER_WRITABLE, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2817,7 +2672,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHX20()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHX25()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("640.0;360;0.5;0;640;360;0.5;12000;0.27913400531;0.56855899096::", gg.POINTER_WRITABLE, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.POINTER_WRITABLE, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2829,7 +2684,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHX25()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHG90T()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("3.5873241e-43;1.1210388e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(20)
@@ -2859,7 +2714,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WH6750()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("56D;1407374883684354Q;0.5F:573", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.processResume()
   gg.refineNumber("56", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
@@ -2885,7 +2740,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WH6765()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("131,074;1;1,131,413,504;1,137,967,104;1,056,964,608:225", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("1,056,964,608", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(4, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -2899,7 +2754,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CY()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("16;32;40;48;40:41", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(10)
@@ -2921,7 +2776,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CR()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("8;16;32;48;40::169", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(10)
@@ -2954,7 +2809,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP22G()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("38D;14D;24D;48D;41D;16D::209", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("48", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -2965,13 +2820,13 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP22Y()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("34D;35D;36D;89D;38D;39D;97D;40D:121", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(4)
   gg.editAll("37", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("40D;58D;17D;47D;19D;55D;98D;100D;42D;9D;46D;55D:789 ", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("55", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(12)
@@ -2982,7 +2837,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP22W()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("74D;48D;49D;18D;50D;19D;51D;20D;59D;22D::121", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("49", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -2992,7 +2847,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP22R()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("49D;18D;50D;19D;51D;20D;59D;21D;75D;22D::89", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("59", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3002,7 +2857,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP22M()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("12D;59D;13D;14D;15D;16D;17D;18D;19D::141", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("13;17;19", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3013,28 +2868,28 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP60R()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.68155816e-44F;1.62092562e-12F;3162688022693019688Q;1.62092562e-12F;2.24207754e-44F:241", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("3162688022693019688", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(25, nil, nil, nil, nil, nil, nil, nil, nil)
-  gg.editAll("38", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("38",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("C Mediatek P60 Red ")
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP60Y()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.68155816e-44F;1.62092562e-12F;3162688022693019688Q;1.62092562e-12F;2.24207754e-44F:241", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("3162688022693019688", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(25, nil, nil, nil, nil, nil, nil, nil, nil)
-  gg.editAll("36", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("36",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("C Mediatek P60 Yellow Active ")
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo CP60B()
   gg.clearResults()
   gg.setRanges(4)
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("802,824,192;48;937,041,920;40;736,370,688;32;802,824,192;48;802,824,192;16;802,824,192;2;2::", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -3098,19 +2953,19 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY8895()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("40;32;16;2::37", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(9)
   gg.editAll("38", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.067767e-39;0.5::257", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(9)
   gg.getResultsCount()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.251438e-39;0.5::273", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(9)
@@ -3121,7 +2976,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY8895()
   gg.getResults(1200)
   gg.editAll("-999", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("56; 64; 48: 35", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("56", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -3149,9 +3004,9 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY9810()
   else
     gg.clearList()
     gg.clearResults()
-    gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+    gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
     gg.clearResults()
-    gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+    gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
     gg.searchNumber("0.5;2.8025969e-45;4D;2D;14D;5D;-1D", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
     gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
     gg.getResults(100)
@@ -3198,7 +3053,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY7570()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("360;0;0;0;-640;1;1;1;0;0;0;0;1;360;640;0.5;0;0;0;0.5;1;1;0;0;0;0;0;1;1;1;1;1,098618e-48:373", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   t = gg.getResults(10)
@@ -3209,7 +3064,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY8890()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("9.70070386e-38;4.59177481e-40;9.70070386e-38;3.13890856e-43;1.40129846e-45;2.80259693e-45;0.5:441", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3223,7 +3078,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY7885()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("\"3162688022693019688Q;4915678994331860992Q:2293\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("\"4915678994331860992\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3241,9 +3096,9 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHEXY7880()
   else
     gg.clearList()
     gg.clearResults()
-    gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+    gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
     gg.clearResults()
-    gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+    gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
     gg.searchNumber("0.5;2.8025969e-45;4D;2D;14D;5D;-1D", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
     gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
     gg.getResults(100)
@@ -3367,7 +3222,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exy1()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("56;64;3:21", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("56", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -3410,7 +3265,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exy5()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("24;802824704;32;2::21", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("24", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(5)
@@ -3420,7 +3275,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exy6()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("24;802824704;32;2::21", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("24", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(5)
@@ -3431,7 +3286,7 @@ end
 FADZooooooooooooooooooooooooooooooooooooooooooo exy7()
   gg.processResume()
   gg.processResume()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("24;802824704;32;2::21", 4, false, 536870912, 0, -1)
   gg.refineNumber("\"24\"", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(99999, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3442,7 +3297,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exy8()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("232;80;6;160;88;6;128;4", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("88", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(25)
@@ -3452,7 +3307,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo exy8()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo exy9()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
   gg.searchNumber("224D;128D;224D;14D;40D;64D;64D;12D;140D;16D;156D;32D;168D:533", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.processResume()
@@ -3513,7 +3368,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN658()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("0.5;1.4012985e-45;1.4012985e-45;3.8115318e-43;2.8025969e-45;2.2958874e-41:125", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3540,7 +3395,7 @@ end
 
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN659()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("\"0.5;1.4012985e-45;1.4012985e-45;3.8115318e-43;2.8025969e-45:77\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("\"0.5\"", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3553,7 +3408,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN655()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("8.5077908e-45;4.2038954e-45;2.8025969e-45;0.5;0.5;2.8025969e-45;1.4012985e-45;7.0064923e-45:337", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   revert = gg.getResults(999, nil, nil, nil, nil, nil, nil, nil, nil)
@@ -3576,7 +3431,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN955()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4.2038954e-45;1.4012985e-45;1.5694543e-43;1.4012985e-45;2.8025969e-45;0.5:109", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   var = gg.getResults(4)
@@ -3588,7 +3443,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN955()
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN980()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("1.793662e-43;3.5873241e-43;1.1210388e-44;0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(20)
@@ -3597,7 +3452,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo WHKRN970()
   gg.clearList()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("3.8530377e-34;1.4810267e-39;1.4012985e-45;4.2038954e-45;4.2038954e-45;7.0064923e-45;4.2038954e-45;1.4012985e-45;1.793662e-43;1.4012985e-45;2.8025969e-45;3.5873241e-43;1.1210388e-44;776.0;360.0;0.5:273", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("0.5", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(20)
@@ -3669,7 +3524,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir1()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("40D;32D;16D;2D::37", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -3679,7 +3534,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir2()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("2;2;8;6;40:45", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.processResume()
   gg.refineNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
@@ -3691,7 +3546,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir3()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("16;32;40;48;40:41", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(10)
@@ -3702,7 +3557,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir4()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("16;32;40;48;40:41", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(10)
@@ -3712,7 +3567,7 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir5()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("40D;32D;16D;2D::37", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.searchNumber("40", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(100)
@@ -3827,12 +3682,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScope1()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("-4767057191653227520", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("-4767057191653227520", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("-4767057191653227520", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("-4767057191527907328", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("-4767057191527907328",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
     gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -3841,12 +3696,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScopeRight1()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4548109841324179456", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4548109841324179456",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
       gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -3855,12 +3710,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScopeLeft1()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4548109839176695808", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4548109839176695808",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
       gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -3869,12 +3724,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScopeFront1()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4138667321167981973", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4138667321167981973", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4138667321167981973", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4848124999984742400", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4848124999984742400",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
       gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -3883,12 +3738,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo StandScopeLeft1()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4548109952939150800", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109952939150800", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109952939150800", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4548109950845845504", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4548109950845845504",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
       gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -3900,7 +3755,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo StandScopeFront1()
   gg.refineNumber("4138667321167981973", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineNumber("4138667321167981973", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4848124999984742400", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4848124999984742400",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
       gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Actived")
 end
@@ -3909,12 +3764,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScope2()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("-4767057191527907328", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("-4767057191527907328", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("-4767057191527907328", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("-4767057191653227520", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("-4767057191653227520",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
       gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Deactive")
 end
@@ -3923,12 +3778,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScopeRight2()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4548109841324179456", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109841324179456", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109841324179456", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4548109841269983040",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Deactive")
 end
@@ -3937,12 +3792,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo SitScopeLeft2()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4548109839176695808", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109839176695808", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109839176695808", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4548109841269983040", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4548109841269983040",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Deactive")
 end
@@ -3951,12 +3806,12 @@ FADZooooooooooooooooooooooooooooooooooooooooooo StandScopeFront2()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4848124999984742400", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4848124999984742400", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4848124999984742400", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4138667321167981973", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4138667321167981973",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Deactive")
 end
@@ -3966,19 +3821,19 @@ FADZooooooooooooooooooooooooooooooooooooooooooo StandScopeLeft2()
   gg.clearResults()
   gg.setRanges(gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("4548109950845845504", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109950845845504", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
-  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo(140)
+  gg.FADZoooooooooooooooooooooooooooooooooooooooooooooo( 140)
   gg.refineNumber("4548109950845845504", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.getResults(1401)
-  gg.editAll("4548109952939150800", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("4548109952939150800",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.clearResults()
         gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Deactive")
 end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir8()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooo or gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.searchNumber("8201", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
   gg.refineAddress("0A0")
   gg.getResults(999)
@@ -3989,10 +3844,10 @@ end
 
 FADZooooooooooooooooooooooooooooooooooooooooooo kir9()
   gg.clearResults()
-  gg.setRanges(gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
-  gg.searchNumber("3152519739159347240", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.setRanges( gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.searchNumber("3152519739159347240",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.addListItems((gg.getResults(20)))
-  gg.editAll("150", gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
+  gg.editAll("150",  gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo)
   gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("C Kirin 710 Yellow Active ")
 end
 
