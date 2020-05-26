@@ -1146,7 +1146,7 @@ gg.searchNumber("67109377;12547::100", gg.FADZoooooooooooooooooooooooooooooooooo
 gg.searchNumber("12547", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 jg = gg.getResults(100)
 sl = gg.getResultCount()
-gg.alert("Bypass 1 Done")
+gg.alert("Bypass 1 Freeze❄️")
 if 100 < sl then
   sl = 100
 end--Ꮲsᴀʏᴄʜᴏ⸙
@@ -1167,7 +1167,7 @@ gg.searchNumber("0;0~20;131586::9", gg.FADZooooooooooooooooooooooooooooooooooooo
 gg.searchNumber("131586", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 jg = gg.getResults(100)
 sl = gg.getResultCount()
-gg.alert("Bypass 2 Done")
+gg.alert("Bypass 2 Freeze❄️")
 if 100 < sl then
   sl = 100
 end--Ꮲsᴀʏᴄʜᴏ⸙
@@ -1188,7 +1188,7 @@ gg.searchNumber("67109377;12547::100", gg.FADZoooooooooooooooooooooooooooooooooo
 gg.searchNumber("12547", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 jg = gg.getResults(100)
 sl = gg.getResultCount()
-gg.alert("Bypass 3 Done")
+gg.alert("Bypass 3 Freeze❄️")
 if 100 < sl then
   sl = 100
 end--Ꮲsᴀʏᴄʜᴏ⸙
@@ -1210,7 +1210,7 @@ gg.searchNumber("0;0~20;131586::9", gg.FADZooooooooooooooooooooooooooooooooooooo
 gg.searchNumber("131586", gg.FADZoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, false, gg.FADZooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, 0, -1)
 jg = gg.getResults(100)
 sl = gg.getResultCount()
-gg.alert("Bypass 4 Done")
+gg.alert("Bypass 4 Freeze❄️")
 if 100 < sl then
   sl = 100
 end--Ꮲsᴀʏᴄʜᴏ⸙
@@ -1241,7 +1241,8 @@ end
 gg.addListItems(t)
 t = nil
 gg.clearResults()
-gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Bypass Pengkik Gaming Active")
+gg.FADZooooooooooooooooooooooooooooooooooooooooooooo("Bypass Active☑️")
+gg.alert("Bypass Active☑️")
 gg.clearResults()
 end
 
@@ -2304,7 +2305,7 @@ FADZooooooooooooooooooooooooooooooooooooooooooo whmenux()
     "WallHack Kirin",
     "WallHack Snapdragon",
     "【Back】"
-  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu\n⏳𝙏𝙞𝙢??: %Y/%m/%d  : %H:%M:%S ⏳")))
+  }, nil, (os.FADZooooooooooooooooooooooooooooooooooooooooooooooo("📁WallHack Menu\n⏳Time: %Y/%m/%d  : %H:%M:%S ⏳")))
   if WALLHACK == nil then
   else
     if WALLHACK == 1 then
