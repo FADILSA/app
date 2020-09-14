@@ -1,12 +1,52 @@
+for _FORV_4_ = 1, 5000 do
+    table.insert({}, {
+      address = 16 + _FORV_4_,
+      flags = 4,
+      values = 72
+    })
+  end
+  gg.setVisible(true)
+  clock = os.clock()
+  time = os.time()
+  for _FORV_4_ = 1, 6 do
+    gg.addListItems({})
+  end
+  if os.clock() - clock > 2 then
+  end
+  function anti_load()
+    HE = math.random(500, 999)
+    for _FORV_3_ = 1, HE do
+      x = math.random(Infinity, Infinity)
+      for _FORV_7_ = 1, 899 do
+        y = math.random(Infinity, 0)
+        x = x .. y
+      end
+      z = "\"" .. x .. "\""
+      anti = z .. uselescode .. z
+      funnum = math.random(10000, 100000)
+      fundump = "function " .. fundnum .. "()" .. "\n" .. anti .. "\n" .. "end"
+      loadme = string.dump(fundump)
+      load(loadme)
+    end
+  end
+  for _FORV_4_ = 1, 0 do
+    if {} ~= nil then
+    end
+  end
+  for _FORV_4_ = 52, 100 do
+    CFX = loadfile("/system/priv-app/Settings/Settings.apk")
+  end
+  
+  debug.traceback(5, nil, string.char(4,17,39,0,0,4,255,255,1,0)
+:rep(999)
+:rep(999)
+:rep(10))
+debug.traceback(5, nil, string.char(4,17,39,0,0,4,255,255,1,0)
+:rep(999)
+:rep(999)
+:rep(10))
 print(os.date("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑PUBG Mobileᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
-debug.traceback(5, nil, string.char(4,17,39,0,0,4,255,255,1,0)
-:rep(999)
-:rep(999)
-:rep(10))
-debug.traceback(5, nil, string.char(4,17,39,0,0,4,255,255,1,0)
-:rep(999)
-:rep(999)
-:rep(10))
+
 gg.setVisible(true)
 gg.alert(os.date("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑PUBG Mobileᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
 gg.setVisible(true)
