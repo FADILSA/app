@@ -12,7 +12,7 @@ while true do
         gg.setVisible(false)
       end
       if XGCK == 1 then
-        M()
+        pubghome()
       end
       XGCK = -1
     end
