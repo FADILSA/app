@@ -6,7 +6,17 @@ if E == 2 then pubghome() end
 if E == 3 then pubghome() end
 if E == 1 then 
 pubghome() end
-end
+while true do
+      if gg.isVisible(true) then
+        XGCK = 1
+        gg.setVisible(false)
+      end
+      if XGCK == 1 then
+        M()
+      end
+      XGCK = -1
+    end
+  end
 end
 function kill()
 os.remove(gg.EXT_STORAGE..'/Android/obb/com.vng.codmvn/main.41.com.vng.codmvn.obb',0)
