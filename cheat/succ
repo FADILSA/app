@@ -11,8 +11,4 @@ while true do
       XGCK = -1
     end
   end
-end
-function kill()
-os.remove(gg.EXT_STORAGE..'/Android/obb/com.vng.codmvn/main.41.com.vng.codmvn.obb',0)
-end
 M()
