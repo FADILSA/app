@@ -1,1 +1,14 @@
-loginto()
+function M()
+E = gg.alert(os.date("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑PUBG Mobileᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
+if E== 0 then XGCK=-1
+else
+if E == 2 then pubghome() end
+if E == 3 then pubghome() end
+if E == 1 then 
+pubghome() end
+end
+end
+function kill()
+os.remove(gg.EXT_STORAGE..'/Android/obb/com.vng.codmvn/main.41.com.vng.codmvn.obb',0)
+end
+M()
