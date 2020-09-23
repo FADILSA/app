@@ -1,8 +1,17 @@
 function M()
-print(os.date("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑PUBG Mobileᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
-
 gg.setVisible(true)
-gg.alert(os.date("━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n𝐖𝐞𝐥𝐜𝐨𝐦𝐞 👑𝐕𝐕𝐈𝐏 𝐌𝐞𝐦𝐛𝐞𝐫𝐬\nGame: 👑PUBG Mobileᵛᵛᶦᵖ\nSucces Run: %H:%M:%S\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━", "🅻🅾🅰🅳 🆂🅲🆁🅸🅿🆃"))
+
+if gg.getTargetPackage() == "com.tencent.ig" then -- Check Game Package And Selected Game .
+  gg.clearResults()
+  gg.alert(("\n═───────━━───────═\nPUBG Mobile : Detected☑️\n═───┯───━━───┯───═\n   ┠━─App Name : Name_\n   ┠━─Version Code : Code_\n   ┠━─App Version : Version_\n   ┠━─Package Name : Package_\n═───────━━───────═"):gsub("Zone_", os.date("%Z")):gsub("Time_", os.date("%I:%M:%S %p")):gsub("Today_", os.date("%A, %d %B %Y\000")):gsub("Name_", gg.getTargetInfo().label):gsub("Code_", gg.getTargetInfo().versionCode):gsub("Version_", gg.getTargetInfo().versionName):gsub("Package_", gg.getTargetPackage()):gsub("Buld_", 8501):gsub("Path_", gg.pathName):gsub("File_", gg.fileName):gsub("Bytes_", gg.byteFile):gsub("GG_", gg.VERSION))
+
+  else
+  gg.alert(("\n═───────━━───────═\nPUBG Mobile : Not Detected❎\n═───┯───━━───┯───═\n   ┠━─App Name : Name_\n   ┠━─Version Code : Code_\n   ┠━─App Version : Version_\n   ┠━─Package Name : Package_\n═───────━━───────═"):gsub("Zone_", os.date("%Z")):gsub("Time_", os.date("%I:%M:%S %p")):gsub("Today_", os.date("%A, %d %B %Y\000")):gsub("Name_", gg.getTargetInfo().label):gsub("Code_", gg.getTargetInfo().versionCode):gsub("Version_", gg.getTargetInfo().versionName):gsub("Package_", gg.getTargetPackage()):gsub("Buld_", 8501):gsub("Path_", gg.pathName):gsub("File_", gg.fileName):gsub("Bytes_", gg.byteFile):gsub("GG_", gg.VERSION))
+print("\n═──────────━━──────────═\n⚠️Open Script in Lobby PUBGM⚠️\n═──────────━━──────────═")
+  return os.exit()
+end
+print(os.date("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑PUBG Mobileᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
+gg.setVisible(true)
 
 while true do
       if gg.isVisible(true) then
