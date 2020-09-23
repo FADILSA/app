@@ -35,7 +35,7 @@ gg.editAll("0", gg.TYPE_FLOAT)
 gg.clearResults()
   gg.toast("Active " .. gg.getResultsCount(gg.editAll) .. " values")
 end
-function mw4s
+function mw4s()
 gg.loadList(gg.EXT_STORAGE .. "/Android/data/com.tencent/jgh.txt", 0)
  t = gg.getListItems()
 gg.loadResults(t)
@@ -62,7 +62,7 @@ gg.editAll("60", gg.TYPE_FLOAT)
   gg.clearResults()
   gg.toast("Active " .. gg.getResultsCount(gg.editAll) .. " values")
   end
-function mw7s
+function mw7s()
 gg.loadList(gg.EXT_STORAGE .. "/Android/data/com.tencent/bsx.txt", 0)
  t = gg.getListItems()
 gg.loadResults(t)
@@ -167,18 +167,6 @@ gg.editAll("0", 4)
 gg.clearResults()
 gg.toast("Active " .. gg.getResultsCount(gg.editAll) .. " values")
 end
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
