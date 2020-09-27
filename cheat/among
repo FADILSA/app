@@ -1,0 +1,68 @@
+i = "🔹 "
+gg.setVisible(true)
+function homeforload()
+Menu = gg.choice({
+'🔐Key Login ',
+'🔑How to Get Key?',
+'🔚Exit'
+}, nil, (os.date('━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━\n                     🛡️🅇-🄻🄾🄰🄳🄴🅁.\n⏳Time: %Y/%m/%d  : %H:%M:%S⏳\n━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━')))
+if Menu == nil then
+else
+if Menu == 1 then
+login()
+end-- 𝖎𝖋
+if Menu == 2 then
+regis()
+end
+if Menu == 3 then
+exitload()
+end
+end
+end
+
+function regis()
+    YT = gg.alert('━━━━━━━━━━━━━━━━━━\n🔓How to Get Key?\n━━━━━━━━━━━━━━━━━━\n(1.)Click 📋COPY LINK.\n(2.)Open 🌐Google Chrome or any Browser and Paste Link.\n(3.)Click Generate and Wait the Key.\n(4.)Copy Key and Paste in Script and Enjoy the Hack 😎.', '📋Copy Link', '🔙Back')
+    if YT == 1 then
+      gg.copyText('https://bit.ly/3m3Nqim')
+    end
+    if YT == 2 then
+    homeforload()
+    end
+    if YT == 3 then
+        exitload()
+    end
+    end
+
+
+function login()
+Variable = {}
+Variable["LoginURL"]= "http://fadz.phpnet.us/generate/ALogin.php"
+Prompt = gg.prompt({"━━━━━━━━━━━━━━━━━━━━━━━━━━━\n                     🔐Enter Login Key\n━━━━━━━━━━━━━━━━━━━━━━━━━━━","━━━━━━━━━━━━━━━━━━━━━━━━\n                     🔙Back\n━━━━━━━━━━━━━━━━━━━━━━━━"},nil,{"text","checkbox"})
+if not Prompt then
+	return
+	end
+	if Prompt[2] then
+	return
+	homeforload()
+	end
+       ProgressBar = " ░░░░░░░░░░░░░░░░ \nChecking Key"
+for i = 1, 15 do
+  gg.sleep(100)
+  ProgressBar = ProgressBar:gsub("░", "▓", 1)
+  gg.toast(ProgressBar)
+end
+	gg.setVisible(false)
+Variable["TempLogin"]  = '{"kYxD7xpcUxne6xj":"'..Prompt[1]..'"}'
+ResponseContent = gg.makeRequest(Variable["LoginURL"],nil,Variable["TempLogin"]).content
+pcall(load(ResponseContent))
+end
+
+
+
+function exitload()
+gg.isVisible(true) 
+os.exit()
+end
+
+
+ 
