@@ -1,6 +1,5 @@
 function M()
 gg.setVisible(true)
-i = "🔹"
 b = "🔸"
 if gg.getTargetPackage() == "com.innersloth.spacemafia" then -- Check Game Package And Selected Game .
   gg.clearResults()
