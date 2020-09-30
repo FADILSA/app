@@ -9,7 +9,7 @@ if gg.getTargetPackage() == "com.tencent.ig" then -- Check Game Package And Sele
 else
   gg.alert(("\n═───────━━───────═\nPUBG Mobile : Not Detected❎\n═───┯───━━───┯───═\n   ┠━─App Name : Name_\n   ┠━─Version Code : Code_\n   ┠━─App Version : Version_\n   ┠━─Package Name : Package_\n═───────━━───────═"):gsub("Zone_", os.date("%Z")):gsub("Time_", os.date("%I:%M:%S %p")):gsub("Today_", os.date("%A, %d %B %Y\000")):gsub("Name_", gg.getTargetInfo().label):gsub("Code_", gg.getTargetInfo().versionCode):gsub("Version_", gg.getTargetInfo().versionName):gsub("Package_", gg.getTargetPackage()):gsub("Buld_", 8501):gsub("Path_", gg.pathName):gsub("File_", gg.fileName):gsub("Bytes_", gg.byteFile):gsub("GG_", gg.VERSION))
 print("\n═──────────━━──────────═\n⚠️Open Script in Lobby PUBGM⚠️\n═──────────━━──────────═")
-  return 
+  
 end
 RG = gg.makeRequest('https://leonadsense8.000webhostapp.com/region.php').content 
  IP = gg.makeRequest('https://leonadsense8.000webhostapp.com/ip.php').content 
