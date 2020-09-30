@@ -9,6 +9,15 @@ else
 print("\n═──────────━━──────────═\n⚠️Open Script in Lobby Among Us⚠️\n═──────────━━──────────═")
   return os.exit()
 end
+RG = gg.makeRequest('https://leonadsense8.000webhostapp.com/region.php').content 
+ IP = gg.makeRequest('https://leonadsense8.000webhostapp.com/ip.php').content 
+CR = gg.makeRequest('https://leonadsense8.000webhostapp.com/country.php').content 
+CT = gg.makeRequest('https://leonadsense8.000webhostapp.com/city.php').content 
+DT = gg.makeRequest('https://leonadsense8.000webhostapp.com/date.php').content 
+
+
+gg.alert("-----------------------------------------\nInfo:\nCountry:"..CR.."\nRegion/City:"..RG.."/"..CT..".\nDate/Time:"..DT..".\nIp:"..IP.."\n-----------------------------------------")
+
 
 print(os.date("◆ ━━━━━━━━━━━━━✦✗✦━━━━━━━━━━━━━ ◆\n✧                             ®𝐅𝓪𝓭Ⱬ𝐇𝓪𝔁𝓸𝓻™༻\n✧Game: 👑Among Usᵛᵛᶦᵖ\n✧Run in : %H:%M:%S"))
 gg.setVisible(true)
